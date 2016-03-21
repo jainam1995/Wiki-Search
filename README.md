@@ -17,4 +17,4 @@ The collection of data being used is a 16GB dump of wikipedia pages.The tf-idf m
 `python index_the_query.py stopwords.txt indexfile.txt titleindex.txt`  
 
 
- Now type the search query. a ranked list of document titles will appear !!   
+ Now type the search query. A ranked list of document titles will appear !!   
