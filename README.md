@@ -6,7 +6,7 @@
 The collection of data being used is a 16GB dump of wikipedia pages.The tf-idf meathod is used for indexing. Three types of search queries are entertained :  
 * One word query : Displays pages that have that word, ranked according to tf-idf.  
 * Full text search : Displays pages that have any of that word, ranked according to tf-idf.  
-* Pattern search : Displays pages that have the words in that order, ranked according to tf-idf. Enclose the seach query with " " in this case.
+* Pattern search : Displays pages that have the words in that order, ranked according to tf-idf. Enclose the seach query within " " in this case.
 
 ---
 
